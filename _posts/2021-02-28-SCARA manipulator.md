@@ -7,4 +7,9 @@ toc: true
 
 # **holy shit**
 
+<figure>
+    <img src="{{ '/assets/images/프로파일.jpg' | relative_url }}" alt="프로파일">
+    <figcaption>어쩌라고 개샛갸</figcaption>
+  </figure>
+
 ## **guck you**
